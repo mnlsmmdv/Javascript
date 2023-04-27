@@ -30,3 +30,8 @@ console.log("Student Status: " + enrolledStatusTwo);
 
 // Displays all Variable type values.
 console.log("Your name is: " + firstName + " " + secondName + ", Your age is: " + secondAge + ", Student Status: " + enrolledStatusOne)
+
+// Changing innner HTML of document.
+document.getElementById("p1").innerHTML = "Your Name is: " + firstName + " " + secondName;
+document.getElementById("p2").innerHTML = "Your Age is: " + secondAge;
+document.getElementById("p3").innerHTML = "Student Status: " + enrolledStatusOne;
