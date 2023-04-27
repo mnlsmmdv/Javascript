@@ -16,3 +16,8 @@ console.log("Your second age is: " + secondAge);
 let thirdAge = 50;
 fourthAge = thirdAge + 1;
 console.log("Your fourth age is: " + fourthAge);
+
+// Displaying a series of characters (String).
+let firstName = "Ahmed";
+let secondName = "Affaan";
+console.log("Your name is: " + firstName + " " + secondName);
