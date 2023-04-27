@@ -8,11 +8,11 @@
 // Declaring variables + displaying value.
 let age;
 age = 21;
-let second_age = 23;
+let secondAge = 23;
 console.log("Your age is: " + age);
-console.log("Your second age is: " + second_age);
+console.log("Your second age is: " + secondAge);
 
 // Incrementing to a variable + displaying value.
-let third_age = 50;
-fourth_age = third_age + 1;
-console.log("Your fourth age is: " + fourth_age);
+let thirdAge = 50;
+fourthAge = thirdAge + 1;
+console.log("Your fourth age is: " + fourthAge);
