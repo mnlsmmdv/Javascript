@@ -21,3 +21,9 @@ console.log("Your fourth age is: " + fourthAge);
 let firstName = "Ahmed";
 let secondName = "Affaan";
 console.log("Your name is: " + firstName + " " + secondName);
+
+// Displaying a boolean value (True or False).
+let enrolledStatusOne = true;
+let enrolledStatusTwo = false;
+console.log("Student Status: " + enrolledStatusOne);
+console.log("Student Status: " + enrolledStatusTwo);
