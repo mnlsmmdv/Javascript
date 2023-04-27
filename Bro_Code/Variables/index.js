@@ -27,3 +27,6 @@ let enrolledStatusOne = true;
 let enrolledStatusTwo = false;
 console.log("Student Status: " + enrolledStatusOne);
 console.log("Student Status: " + enrolledStatusTwo);
+
+// Displays all Variable type values.
+console.log("Your name is: " + firstName + " " + secondName + ", Your age is: " + secondAge + ", Student Status: " + enrolledStatusOne)
