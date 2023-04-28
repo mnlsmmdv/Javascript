@@ -8,6 +8,7 @@
 
 // Variable declaration.
 let students = 23;
+let studentsTwo = 20;
 let extraStudents = students % 3;
 
 // Addition.
