@@ -36,3 +36,13 @@ console.log("Augmented Operator Subtraction: " + (studentsTwo -= 1))
 console.log("Augmented Operator Multiplication: " + (studentsTwo *= 2))
 console.log("Augmented Operator Division: " + (studentsTwo /= 2))
 console.log("Augmented Operator Remainder: " + (studentsTwo %= 3))
+
+/*
+    Operator Precedence
+    1. Parenthesis ()
+    2. Exponents
+    3. Multiplication & Division
+    4. Addition & Subtraction
+*/
+let result = (1 + 2) * (3 + 4);
+console.log("Operator Precedence: " + result);
