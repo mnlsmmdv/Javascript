@@ -11,16 +11,16 @@ students = 23;
 
 // Addition.
 addition = students + 1;
-console.log("Addition: " + addition)
+console.log("Addition: " + addition);
 
 // Subtraction.
 subtraction = students - 1;
-console.log("Subtraction: " + subtraction)
+console.log("Subtraction: " + subtraction);
 
 // Multiplication.
 multiplication = students * 2;
-console.log("Multiplication: " + multiplication)
+console.log("Multiplication: " + multiplication);
 
 // Division.
 division = students / 2;
-console.log("Division: " + division)
+console.log("Division: " + division);
