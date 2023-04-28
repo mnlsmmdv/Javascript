@@ -16,3 +16,7 @@ console.log("Addition: " + addition)
 // Subtraction.
 subtraction = students - 1;
 console.log("Subtraction: " + subtraction)
+
+// Multiplication.
+multiplication = students * 2;
+console.log("Multiplication: " + multiplication)
