@@ -20,3 +20,7 @@ console.log("Subtraction: " + subtraction)
 // Multiplication.
 multiplication = students * 2;
 console.log("Multiplication: " + multiplication)
+
+// Division.
+division = students / 2;
+console.log("Division: " + division)
