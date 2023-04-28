@@ -7,7 +7,8 @@
 */
 
 // Variable declaration.
-students = 23;
+let students = 23;
+let extraStudents = students % 3;
 
 // Addition.
 addition = students + 1;
