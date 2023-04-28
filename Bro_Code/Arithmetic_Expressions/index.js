@@ -25,3 +25,6 @@ console.log("Multiplication: " + multiplication);
 // Division.
 division = students / 2;
 console.log("Division: " + division);
+
+// Remainder (Modulus Operator).
+console.log("Remainder: " + extraStudents)
