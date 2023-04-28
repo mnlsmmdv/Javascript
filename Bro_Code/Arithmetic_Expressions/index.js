@@ -28,14 +28,14 @@ division = students / 2;
 console.log("Division: " + division);
 
 // Remainder (Modulus Operator).
-console.log("Remainder: " + extraStudents)
+console.log("Remainder: " + extraStudents);
 
 // Augmented Assignment Operator examples.
-console.log("Augmented Operator Addition: " + (studentsTwo += 1))
-console.log("Augmented Operator Subtraction: " + (studentsTwo -= 1))
-console.log("Augmented Operator Multiplication: " + (studentsTwo *= 2))
-console.log("Augmented Operator Division: " + (studentsTwo /= 2))
-console.log("Augmented Operator Remainder: " + (studentsTwo %= 3))
+console.log("Augmented Operator Addition: " + (studentsTwo += 1));
+console.log("Augmented Operator Subtraction: " + (studentsTwo -= 1));
+console.log("Augmented Operator Multiplication: " + (studentsTwo *= 2));
+console.log("Augmented Operator Division: " + (studentsTwo /= 2));
+console.log("Augmented Operator Remainder: " + (studentsTwo %= 3));
 
 /*
     Operator Precedence
