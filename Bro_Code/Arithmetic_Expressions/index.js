@@ -12,3 +12,7 @@ students = 23;
 // Addition.
 addition = students + 1;
 console.log("Addition: " + addition)
+
+// Subtraction.
+subtraction = students - 1;
+console.log("Subtraction: " + subtraction)
