@@ -1,0 +1,5 @@
+/*Displays text with shadow flame styling*/
+#mainheader1 {
+    font-family: "Open Sans", "Sans Serif";
+    text-shadow: 0px 0px 5px #FFFF00, 0px -5px 5px #FF0000;
+}
