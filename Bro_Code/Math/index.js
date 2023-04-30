@@ -29,3 +29,13 @@ console.log("Square root: " + v);
 let u = -3.14;
 u = Math.abs(u);
 console.log("Absolute value: " + u);
+
+// Finding the maximum and minimum of three values.
+let t = 5;
+let s = 9;
+let maximum;
+let minimum;
+maximum = Math.max(u, t, s);
+minimum = Math.min(u, t, s);
+console.log("Maximum of three values: " + maximum);
+console.log("Minimum of three values: " + minimum);
