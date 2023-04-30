@@ -22,3 +22,7 @@ x = Number("3.14");
 y = String(3.14);
 // Converting a value to a Boolean.
 z = Boolean("");
+// Displaying current type of converted values.
+console.log(x, typeof x);
+console.log(y, typeof y);
+console.log(z, typeof z);
