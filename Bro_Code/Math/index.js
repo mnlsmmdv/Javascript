@@ -39,3 +39,7 @@ maximum = Math.max(u, t, s);
 minimum = Math.min(u, t, s);
 console.log("Maximum of three values: " + maximum);
 console.log("Minimum of three values: " + minimum);
+
+// Displays the full value of PI.
+let r = Math.PI;
+console.log("Full value of PI: " + r);
