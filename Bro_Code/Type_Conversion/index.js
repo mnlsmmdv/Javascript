@@ -16,3 +16,9 @@ console.log("Happy Birthday! You are ", age, " years old.");
 let x;
 let y;
 let z;
+// Converting a String to a Number.
+x = Number("3.14");
+// Converting a Number to a String.
+y = String(3.14);
+// Converting a value to a Boolean.
+z = Boolean("");
