@@ -19,3 +19,8 @@ console.log("Value rounded up: " + z);
 let w = 3.14;
 w = Math.pow(w, 2);
 console.log("Power variable: " + w);
+
+// Square root variable example.
+let v = 3.14;
+v = Math.sqrt(v);
+console.log("Square root: " + v);
