@@ -10,3 +10,9 @@ age = Number(age);
 age += 1;
 console.log("Happy Birthday! You are ", age, " years old.");
 */
+
+// Type conversion example.
+// Variable declarations.
+let x;
+let y;
+let z;
