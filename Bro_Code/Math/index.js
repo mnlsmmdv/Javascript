@@ -7,7 +7,7 @@ console.log("Value rounded: " + x);
 
 // Rounding down variable example
 let y = 3.99;
-y = Math.floor(x);
+y = Math.floor(y);
 console.log("Value rounded down: " + y);
 
 // Rounding up variable example.
