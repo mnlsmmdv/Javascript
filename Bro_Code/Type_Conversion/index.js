@@ -29,3 +29,4 @@ w = Boolean("Pizza");
 console.log(x, typeof x);
 console.log(y, typeof y);
 console.log(z, typeof z);
+console.log(w, typeof w);
