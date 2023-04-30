@@ -1,4 +1,4 @@
-// An intrinsic object that provides basic mathematics functionality and constants.
+// Math - An intrinsic object that provides basic mathematics functionality and constants.
 
 // Rounding variable example.
 let x = 3.14;
