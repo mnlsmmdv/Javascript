@@ -14,3 +14,8 @@ console.log("Value rounded down: " + y);
 let z = 3.14;
 z = Math.ceil(z);
 console.log("Value rounded up: " + z);
+
+// Power variable example.
+let w = 3.14;
+w = Math.pow(w, 2);
+console.log("Power variable: " + w);
