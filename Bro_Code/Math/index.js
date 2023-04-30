@@ -24,3 +24,8 @@ console.log("Power variable: " + w);
 let v = 3.14;
 v = Math.sqrt(v);
 console.log("Square root: " + v);
+
+// Absolute variable example.
+let u = -3.14;
+u = Math.abs(u);
+console.log("Absolute value: " + u);
