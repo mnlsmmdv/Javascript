@@ -4,3 +4,8 @@
 let x = 3.14;
 x = Math.round(x);
 console.log("Value rounded: " + x);
+
+// Rounding down variable example
+let y = 3.99;
+y = Math.floor(x);
+console.log("Value rounded down: " + y);
