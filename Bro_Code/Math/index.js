@@ -9,3 +9,8 @@ console.log("Value rounded: " + x);
 let y = 3.99;
 y = Math.floor(x);
 console.log("Value rounded down: " + y);
+
+// Rounding up variable example.
+let z = 3.14;
+z = Math.ceil(z);
+console.log("Value rounded up: " + z);
