@@ -13,3 +13,8 @@ document.getElementById("resetButton").onclick = function(){
     count = 0;
     document.getElementById("countLabel").innerHTML = count;
 }
+// This function increases the count.
+document.getElementById("increaseButton").onclick = function(){
+    count += 1;
+    document.getElementById("countLabel").innerHTML = count;
+}
