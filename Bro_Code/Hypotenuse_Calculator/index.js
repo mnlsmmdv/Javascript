@@ -14,5 +14,7 @@ c = Math.pow(a, 2) + Math.pow(b, 2);
 c = Math.sqrt(c);
 */
 
+/*
 c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2)); // Shorter version to calculate Hypotenuse.
-console.log("Side C is: ", c);
+console.log("Side C is: ", c); // Displaying the result.
+*/
