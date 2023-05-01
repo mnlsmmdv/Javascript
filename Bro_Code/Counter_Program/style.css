@@ -17,15 +17,18 @@
 /*Displays counter program Decrease button stylised*/
 #decreaseButton {
     font-family: "Open Sans", "Sans Serif";
+    font-size: 30px;
     font-weight: bold;
 }
 /*Displays counter program Reset button stylised*/
 #resetButton {
     font-family: "Open Sans", "Sans Serif";
+    font-size: 30px;
     font-weight: bold;
 }
 /*Displays counter program Increase button stylised*/
 #increaseButton {
     font-family: "Open Sans", "Sans Serif";
+    font-size: 30px;
     font-weight: bold;
 }
