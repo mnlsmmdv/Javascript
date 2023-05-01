@@ -10,3 +10,17 @@
     display: block;
     text-align: center;
 }
+/*Displays counter program Decrease button stylised*/
+#decreaseButton {
+    font-family: "Open Sans", "Sans Serif";
+    font-weight: bold;
+}
+/*Displays counter program Reset button stylised*/
+#resetButton {
+    font-family: "Open Sans", "Sans Serif";
+    font-weight: bold;
+}
+#increaseButton {
+    font-family: "Open Sans", "Sans Serif";
+    font-weight: bold;
+}
