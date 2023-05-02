@@ -26,3 +26,17 @@
     font-size: 30px;
     font-weight: bold;
 }
+/*Styles rollButton button*/
+#rollButton {
+    font-family: "Open Sans", "Sans Serif";
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+/*Styles resetButton button*/
+#resetButton {
+    font-family: "Open Sans", "Sans Serif";
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 6px;
+}
