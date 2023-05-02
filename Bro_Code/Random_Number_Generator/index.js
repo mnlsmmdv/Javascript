@@ -10,6 +10,7 @@ document.getElementById("rollButton").onclick = function(){
     let numberTwo = Math.floor(Math.random() * 6) + 1;
     let numberThree = Math.floor(Math.random() * 6) + 1;
 
+    // Displays the numbers.
     document.getElementById("randomNumber1").innerHTML = numberOne;
     document.getElementById("randomNumber2").innerHTML = numberTwo;
     document.getElementById("randomNumber3").innerHTML = numberThree;
