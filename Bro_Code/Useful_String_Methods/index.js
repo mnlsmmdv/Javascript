@@ -30,3 +30,8 @@ let userNameUpper = userNameFive.toUpperCase();
 let userNameLower = userNameFive.toLowerCase();
 console.log("Strings converted to Uppercase: " + userNameUpper);
 console.log("Strings converted to Lowercase: " + userNameLower);
+
+// Displays string after replacing certain characters.
+let userPhoneNumber = "123-456-7890";
+let numberCharReplace = userPhoneNumber.replaceAll("-", "");
+console.log("Phone Number cleanup: " + numberCharReplace);
