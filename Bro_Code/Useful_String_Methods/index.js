@@ -23,3 +23,10 @@ console.log("Last occuring index of Character: " + nameLastOccuringIndex);
 let userNameFour = "   mnlsmmdv   ";
 let userNameTrim = userNameFour.trim();
 console.log("Username after trimming: " + userNameTrim);
+
+// Displays string after converting to uppercase and lowercase letters.
+let userNameFive = "mnlsmmdv";
+let userNameUpper = userNameFive.toUpperCase();
+let userNameLower = userNameFive.toLowerCase();
+console.log("Strings converted to Uppercase: " + userNameUpper);
+console.log("Strings converted to Lowercase: " + userNameLower);
