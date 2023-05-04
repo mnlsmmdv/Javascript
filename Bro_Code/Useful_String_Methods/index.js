@@ -18,3 +18,8 @@ let nameFirstOccuringIndex = userNameThree.indexOf("m");
 let nameLastOccuringIndex = userNameThree.lastIndexOf("m");
 console.log("First occuring index of Character: " + nameFirstOccuringIndex);
 console.log("Last occuring index of Character: " + nameLastOccuringIndex);
+
+// Displays string after trimming excess space.
+let userNameFour = "   mnlsmmdv   ";
+let userNameTrim = userNameFour.trim();
+console.log("Username after trimming: " + userNameTrim);
