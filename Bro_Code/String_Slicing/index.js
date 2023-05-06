@@ -18,7 +18,5 @@ firstName = fullName.slice(0, fullName.indexOf(" "));
 lastName = fullName.slice(fullName.indexOf(" ") + 1);
 
 // Displays sliced character values.
-/*
 console.log("First Name: " + firstName);
 console.log("Last Name: " + lastName);
-*/
