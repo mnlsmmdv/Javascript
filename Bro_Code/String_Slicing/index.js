@@ -13,6 +13,10 @@ firstName = fullName.slice(0, 5);
 lastName = fullName.slice(6, 12);
 */
 
+// Displays sliced string from specific indexes.
+firstName = fullName.slice(0, fullName.indexOf(" "));
+lastName = fullName.slice(fullName.indexOf(" ") + 1);
+
 // Displays sliced character values.
 /*
 console.log("First Name: " + firstName);
