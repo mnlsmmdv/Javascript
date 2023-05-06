@@ -6,3 +6,7 @@
 let fullName = "Ahmed Affaan";
 let firstName;
 let lastName;
+
+// Assigning character strings to variable.
+firstName = fullName.slice(0, 5);
+lastName = fullName.slice(6, 12);
