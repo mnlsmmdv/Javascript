@@ -40,3 +40,36 @@ switch(grade){
         // Message given to user.
         console.log(grade, "is not a letter grade!");
 }
+
+// Case clauses for the number grade variable.
+switch(numberGrade){
+    // Grade is A.
+    case numberGrade >= 90:
+        // Message given to user.
+        console.log("You did great!");
+        break;
+    // Grade is B.
+    case numberGrade >= 80:
+        // Message given to user.
+        console.log("You did good!");
+        break;
+    // Grade is C.
+    case numberGrade >= 70:
+        // Message given to user.
+        console.log("You did okay!");
+        break;
+    // Grade is D.
+    case numberGrade >= 60:
+        // Message given to user.
+        console.log("You passed...barely!");
+        break;
+    // Grade is F.
+    case numberGrade > 60:
+        // Message given to user.
+        console.log("You failed!");
+        break;
+    // No matching number grade.
+    default:
+        // Message given to user.
+        console.log(numberGrade, "is not a matching number grade!");
+}
