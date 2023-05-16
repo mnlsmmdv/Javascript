@@ -4,3 +4,16 @@
     text-shadow: 0px 0px 5px #FFFF00, 0px -5px 5px #FF0000;
     text-align: center;
 }
+/*Displays check box label with styling*/
+#checkboxLabel {
+    font-family: "Open Sans", "Sans Serif";
+    font-weight: bold;
+}
+/*Displays Submit button with styling*/
+#myButton {
+    background-color: #FF9500;
+    color: #FFFFFF;
+    font-family: "Open Sans", "Sans Serif";
+    font-weight: bold;
+    border-radius: 5px;
+}
