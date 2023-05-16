@@ -7,6 +7,8 @@ let age = 21;
 let ageTwo = 12;
 let ageThree = -5;
 let ageFour = 65;
+let online = true;
+let offline = true; 
 
 // Displays message if user is over 18 years old.
 if(age >= 18){
