@@ -4,6 +4,8 @@
 
 // Variable declaration for grade.
 let grade = "A";
+let numberGrade = 95;
+//let numberGrade = 0;
 //let grade = "E";
 
 // Case clauses for the grade variable.
