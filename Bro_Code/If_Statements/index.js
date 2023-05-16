@@ -6,7 +6,7 @@
 let age = 21;
 let ageTwo = 12;
 
-// Displays message is user is over 18 years old.
+// Displays message if user is over 18 years old.
 if(age >= 18){
     console.log("You are an adult!");
 }
