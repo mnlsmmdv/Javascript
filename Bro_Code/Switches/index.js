@@ -4,6 +4,7 @@
 
 // Variable declaration for grade.
 let grade = "A";
+//let grade = "E";
 
 // Case clauses for the grade variable.
 switch(grade){
