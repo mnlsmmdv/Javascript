@@ -5,6 +5,8 @@ document.getElementById("myButton").onclick = function(){
     const visaButton = document.getElementById("visaButton");
     const mastercardButton = document.getElementById("mastercardButton");
     const americanexpressButton = document.getElementById("americanexpressButton");
+
+    // Validates checked state and displays messages accordingly.
     if(myCheckBox.checked){
         // Displays the user is subscribed.
         console.log("You Are Subscribed!");
