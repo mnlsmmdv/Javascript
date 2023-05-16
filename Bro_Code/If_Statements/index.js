@@ -28,3 +28,14 @@ else if(ageTwo < 0){
 else{
     console.log("You are a child!");
 }
+
+// Displays message if user is below 0 years old.
+if(ageThree >= 18){
+    console.log("You are an adult!");
+}
+else if(ageThree < 0){
+    console.log("You haven't been born yet!");
+}
+else{
+    console.log("You are a child!")
+}
