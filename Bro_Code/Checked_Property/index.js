@@ -1,6 +1,6 @@
 /*This function validates the checkbox with button clicks*/
 document.getElementById("myButton").onclick = function(){
-    // Constant declared to retrieve element ID.
+    // Constants declared to retrieve element ID.
     const myCheckBox = document.getElementById("myCheckBox")
     const visaButton = document.getElementById("visaButton")
     const mastercardButton = document.getElementById("mastercardButton")
