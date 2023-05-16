@@ -40,3 +40,17 @@ else if(ageThree < 0){
 else{
     console.log("You are a child!")
 }
+
+// Displays message if user is above 65 years old.
+if(ageFour >= 18){
+    console.log("You are an adult!");
+}
+else if(ageFour < 0){
+    console.log("You haven't been born yet!");
+}
+else if(ageFour >= 65){
+    console.log("You are a senior citizen!");
+}
+else{
+    console.log("You are a child!");
+}
