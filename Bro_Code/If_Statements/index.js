@@ -64,4 +64,12 @@ if(online){
 else{
     console.log("You are offline!");
 }
+
+// Displays message if user is offline.
+if(offline){
+    console.log("You are offline!");
+}
+else{
+    console.log("You are online!");
+}
  
