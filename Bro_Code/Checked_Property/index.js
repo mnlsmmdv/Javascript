@@ -1,5 +1,6 @@
 /*This function validates the checkbox with button clicks*/
 document.getElementById("myButton").onclick = function(){
+    // Constant declared to retrieve element ID.
     const myCheckBox = document.getElementById("myCheckBox")
     if(myCheckBox.checked){
         // Displays the user is subscribed.
