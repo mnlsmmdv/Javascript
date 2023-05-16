@@ -15,4 +15,22 @@ document.getElementById("myButton").onclick = function(){
         // Displays the user is not subscribed.
         console.log("You Are Not Subscribed!");
     }
+
+    // Validates checked states of radio buttons and displays messages accordingly.
+    if(visaButton.checked){
+        // Displays the user is paying with Visa.
+        console.log("You are paying with a Visa!");
+    }
+    else if(mastercardButton.checked){
+        // Displays the user is paying with a Master Card.
+        console.log("You are paying with a Master Card!");
+    }
+    else if(americanexpressButton.checked){
+        // Displays the user is paying with a American Express.
+        console.log("You are paying with a American Express");
+    }
+    else{
+        // Displays the user has to select a payment type.
+        console.log("You must select a payment type!");
+    }
 }
