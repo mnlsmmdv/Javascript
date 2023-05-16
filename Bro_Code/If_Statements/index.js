@@ -6,6 +6,7 @@
 let age = 21;
 let ageTwo = 12;
 let ageThree = -5;
+let ageFour = 65;
 
 // Displays message if user is over 18 years old.
 if(age >= 18){
