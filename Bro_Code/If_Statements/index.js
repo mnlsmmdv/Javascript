@@ -56,4 +56,12 @@ else if(ageFour < 0){
 else{
     console.log("You are a child!");
 }
+
+// Displays message if user is online.
+if(online){
+    console.log("You are online!");
+}
+else{
+    console.log("You are offline!");
+}
  
