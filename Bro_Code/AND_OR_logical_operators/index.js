@@ -5,6 +5,8 @@
 // Variable declaration for temperate.
 let temperature = 15;
 //let temperature = -10;
+let temperatureTwo = 50;
+//let temperatureTwo = 15;
 
 // Validates temperature if temperature is between 0°C-30°C.
 if(temperature > 0 && temperature < 30){
