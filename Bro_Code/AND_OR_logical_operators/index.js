@@ -8,7 +8,7 @@ let temperature = 15;
 let temperatureTwo = 50;
 //let temperatureTwo = 15;
 
-// Validates temperature if temperature is between 0°C-30°C.
+// Validates temperature if temperature is between 0°C-30°C (AND Operator).
 if(temperature > 0 && temperature < 30){
     // Message given to the user.
     console.log("The weather is good!");
