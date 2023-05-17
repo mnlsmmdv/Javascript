@@ -29,3 +29,13 @@ else{
     // Message given to the user.
     console.log("The weather is good!");
 }
+
+// Validates temperature if temperature is between 0°C-30°C and it is sunny (AND Operator).
+if(temperature > 0 && temperature < 30 && sunny){
+    // Message given to the user.
+    console.log("The weather is good!");
+}
+else{
+    // Message given to the user.
+    console.log("The weather is bad!");
+}
