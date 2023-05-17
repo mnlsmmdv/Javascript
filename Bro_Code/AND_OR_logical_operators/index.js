@@ -4,3 +4,13 @@
 
 // Variable declaration for temperate.
 let temperature = 15;
+
+// Validates temperature if temperature is between 0°C-30°C.
+if(temperature > 0 && temperature < 30){
+    // Message given to the user.
+    console.log("The weather is good!");
+}
+else{
+    // Message given to the user.
+    console.log("The weather is bad!");
+}
