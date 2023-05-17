@@ -17,3 +17,13 @@ else{
     // Message given to the user.
     console.log("The weather is bad!");
 }
+
+// Validates temperature if temperature is below 0°C or above 30°C (OR Operator).
+if(temperatureTwo){
+    // Message given to the user.
+    console.log("The weather is bad!");
+}
+else{
+    // Message given to the user.
+    console.log("The weather is good!");
+}
