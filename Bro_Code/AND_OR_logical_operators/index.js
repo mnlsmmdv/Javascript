@@ -2,7 +2,7 @@
 // && AND (BOTH conditions must be true)
 // || OR (Either condition can be true)
 
-// Variable declaration for temperate.
+// Variable declaration for temperature.
 let temperature = 15;
 //let temperature = -10;
 let temperatureTwo = 50;
