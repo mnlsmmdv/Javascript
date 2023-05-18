@@ -16,3 +16,13 @@ else{
     // Message given to the user.
     console.log("It is warm outside!");
 }
+
+// Validates weather using boolean value.
+if(!(sunny)){
+    // Message given to the user.
+    console.log("It is cloudy outside!");
+}
+else{
+    // Message given to the user.
+    console.log("It is sunny outside!");
+}
