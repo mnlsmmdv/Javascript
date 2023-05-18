@@ -4,6 +4,7 @@
 
 // Variable declaration for temperature and sunny weather.
 let temperature = 15;
+//let temperature = -15;
 let sunny = true;
 
 // Validates temperature is not above 0°C.
