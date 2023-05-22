@@ -7,7 +7,7 @@ let userName = "";
 
 // Validates if username is an empty string and asks to enter username.
 while(userName == "" || userName == null){
-    // Prompts to give to enter username.
+    // Prompts to enter username.
     userName = window.prompt("Enter your username: ");
 }
 
