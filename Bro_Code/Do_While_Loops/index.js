@@ -4,3 +4,10 @@
 
 // Variable declaration to store username.
 let userName;
+
+// Prompts to enter username and checks if username entry is empty.
+do{
+    // Prompts to enter username.
+    userName = window.prompt("Enter Username: ");
+}
+while(userName == "")
