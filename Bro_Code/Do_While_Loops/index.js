@@ -11,3 +11,6 @@ do{
     userName = window.prompt("Enter Username: ");
 }
 while(userName == "")
+
+// Displays the username given by the user.
+console.log("Username: " + userName);
