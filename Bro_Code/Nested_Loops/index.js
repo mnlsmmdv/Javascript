@@ -29,6 +29,9 @@ for(let i = 1; i <= 3; i += 1){
 for(let i = 1; i <= rows; i += 1){
     for(let j = 1; j <= columns; j += 1){
         // Displays the count from 01-03.
-        console.log(j);
+        // Changes the inner HTML to display on the label.
+        document.getElementById("myRectangle").innerHTML += j;
     }
+    // Line break.
+    document.getElementById("myRectangle").innerHTML += "<br>";
 }
