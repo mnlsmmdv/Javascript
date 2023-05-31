@@ -12,6 +12,7 @@ for(let i = 1; i <= 3; i += 1){
 }
 */
 
+/*
 // Counts from 01-03 (nested).
 // First For loop iterates three times.
 for(let i = 1; i <= 3; i += 1){
@@ -20,6 +21,7 @@ for(let i = 1; i <= 3; i += 1){
         console.log(j);
     }
 }
+*/
 
 // Counts from 01-03 (nested).
 // First For loop iterates three times.
