@@ -20,3 +20,13 @@ for(let i = 1; i <= 3; i += 1){
         console.log(j);
     }
 }
+
+// Counts from 01-03 (nested).
+// First For loop iterates three times.
+// Uses user inputs to display count.
+for(let i = 1; i <= rows; i += 1){
+    for(let j = 1; j <= columns; j += 1){
+        // Displays the count from 01-03.
+        console.log(j);
+    }
+}
