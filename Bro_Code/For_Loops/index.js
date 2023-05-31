@@ -7,6 +7,9 @@ for(let i = 1; i <= 10; i += 1){
     console.log(i);
 }
 
+// Displays if for loop is true.
+console.log("HAPPY NEW YEAR!")
+
 /*
 // Displays count from 10-01.
 for(let counter = 10; counter = 0; counter -= 1){
