@@ -1,5 +1,9 @@
 // nested loop = A loop inside of an other loop.
 
+// Asking for user inputs.
+let rows = window.prompt("Enter # of rows: ");
+let columns = window.prompt("Enter # of columns: ");
+
 /*
 // Counts from 01-03.
 for(let i = 1; i <= 3; i += 1){
