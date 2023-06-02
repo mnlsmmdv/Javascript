@@ -13,7 +13,7 @@ function happyBirthday(){
     // Displays birthday message.
     console.log("Happy birthday to you!");
     console.log("Happy birthday to you!");
-    console.log("Happy birthday dear ___");
+    console.log("Happy birthday dear ", userName);
     console.log("Happy birthday to you!");
-    console.log("You are ___ years old!");
+    console.log("You are", userAge,"years old!");
 }
