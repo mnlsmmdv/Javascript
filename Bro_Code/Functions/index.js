@@ -1,6 +1,10 @@
 // function = Define code once, and use it many times.
 //            To perform some code, call the function name.
 
+// Variables to store users name and age.
+let userName = "Affaan";
+let userAge = 24;
+
 // Function called to display birthday message once.
 happyBirthday();
 
