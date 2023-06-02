@@ -14,7 +14,7 @@ function startProgram(){
 }
 
 // This function displays the Happy Birthday song in three iterations.
-function happyBirthday(){
+function happyBirthday(userName, userAge){
     // Displays birthday message.
     console.log("Happy birthday to you!");
     console.log("Happy birthday to you!");
