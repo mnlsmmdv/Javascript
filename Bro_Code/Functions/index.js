@@ -22,3 +22,16 @@ function happyBirthday(userName, userAge){
     console.log("Happy birthday to you!");
     console.log("You are", userAge,"years old!");
 }
+
+/*
+// This function displays the Happy Birthday song in three iterations.
+// Variant where parameter name is changed.
+function happyBirthday(i, j){
+    // Displays birthday message.
+    console.log("Happy birthday to you!");
+    console.log("Happy birthday to you!");
+    console.log("Happy birthday dear ", userName);
+    console.log("Happy birthday to you!");
+    console.log("You are", userAge,"years old!");
+}
+*/
