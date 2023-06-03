@@ -6,3 +6,6 @@
 //                    3. expression if False
 
 // condition ? exprIfTrue : exprIfFaIse
+
+// Function assigned to variable.
+let adult = checkAge(21);
