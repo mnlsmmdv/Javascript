@@ -11,7 +11,7 @@
 let adult = checkAge(21);
 
 // This function will check a users age.
-function checkAge(){
+function checkAge(age){
     // Checks if age is 18 and above.
     if(age >= 18){
         // User is 18 and above.
