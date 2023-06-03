@@ -37,3 +37,9 @@ function checkAge(age){
     // Returns age by checking with Ternary operator.
     return age >= 18 ? true : false;
 }
+
+// This function checks if user has won a game.
+function checkWinner(win){
+    // Displays upon invoking function with boolean values.
+    win ? console.log("YOU WIN!") : console.log("YOU LOSE!");
+}
