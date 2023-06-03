@@ -15,6 +15,12 @@ let adult = checkAge(21);
 console.log("Users Age:", adult);
 */
 
+// Invoking function to display message.
+// User has won.
+checkWinner(true);
+// User has lost.
+checkWinner(false);
+
 /*
 // This function will check a users age.
 // If-Else statement example.
