@@ -15,6 +15,7 @@ console.log("Users Age:", adult);
 
 /*
 // This function will check a users age.
+// If-Else statement example.
 function checkAge(age){
     // Checks if age is 18 and above.
     if(age >= 18){
