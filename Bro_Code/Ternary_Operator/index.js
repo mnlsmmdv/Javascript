@@ -27,3 +27,10 @@ function checkAge(age){
     }
 }
 */
+
+// This function will check a users age.
+// Ternary operator example.
+function checkAge(age){
+    // Returns age by checking with Ternary operator.
+    return age >= 18 ? true : false;
+}
