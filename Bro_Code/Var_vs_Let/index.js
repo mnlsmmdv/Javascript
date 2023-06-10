@@ -14,3 +14,11 @@ for(let i = 1; i <= 3; i += 1){
     console.log(i);
 }
 */
+
+// This function counts up to 04.
+function doSomething(){
+    for(let i = 1; i <= 3; i += 1){
+        // Displaying the count.
+        console.log(i);
+    }
+}
