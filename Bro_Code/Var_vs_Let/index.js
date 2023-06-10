@@ -6,6 +6,9 @@
 // global variable = is declared outside any function
 // (if global, var will CHANGE browser's window properties)
 
+// Invoking doSomething function.
+doSomething();
+
 /*
 // This For loop counts up to 03.
 // let - Example.
@@ -17,7 +20,7 @@ for(let i = 1; i <= 3; i += 1){
 
 // This function counts up to 04.
 function doSomething(){
-    for(let i = 1; i <= 3; i += 1){
+    for(var i = 1; i <= 3; i += 1){
         // Displaying the count.
         console.log(i);
     }
