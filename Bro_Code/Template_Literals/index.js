@@ -11,3 +11,13 @@ let total = 75;
 console.log(`Hello ${userName}.`);
 console.log(`You have ${items} items in your cart!`);
 console.log(`Your total is ${total}`);
+
+// This variable displays all variable values as one long text.
+let longText =
+`Hello ${userName}
+You have ${items} items in your cart!
+Your total is ${total}
+`;
+
+// Displays long text variable.
+console.log(longText);
