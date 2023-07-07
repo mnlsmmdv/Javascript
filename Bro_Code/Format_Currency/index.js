@@ -28,3 +28,6 @@ console.log(myNumberOne);
 console.log(myNumberTwo);
 // Displaying German locale format (myNumberThree).
 console.log(myNumberThree);
+
+// Displaying US currency locale format (US Dollar).
+console.log(myCurrencyOne);
