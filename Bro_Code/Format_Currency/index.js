@@ -12,6 +12,8 @@ let myNumberTwo = 123456.789;
 
 // US locale format.
 myNumberOne = myNumberOne.toLocaleString("en-US");
+// India locale format.
+myNumberTwo = myNumberTwo.toLocaleString("hi-IN");
 
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
