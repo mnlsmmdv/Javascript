@@ -25,6 +25,8 @@ myNumberThree = myNumberThree.toLocaleString("de-DE");
 myCurrencyOne = myCurrencyOne.toLocaleString("en-US", {style: "currency", currency: "USD"});
 // India currency locale format (Indian Rupee).
 myCurrencyTwo = myCurrencyTwo.toLocaleString("hi-IN", {style: "currency", currency: "INR"});
+// German currency locale format (German Euro).
+myCurrencyThree = myCurrencyThree.toLocaleString("de-DE", {style: "currency", currency: "EUR"});
 
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
