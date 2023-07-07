@@ -19,6 +19,9 @@ myNumberTwo = myNumberTwo.toLocaleString("hi-IN");
 // German locale format (Standard German).
 myNumberThree = myNumberThree.toLocaleString("de-DE");
 
+// US currency locale format (US English).
+myCurrencyOne = myCurrencyOne.toLocaleString("en-US", {style: "currency", currency: "USD"});
+
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
 // Displaying India locale format (myNumberTwo).
