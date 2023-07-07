@@ -15,6 +15,8 @@ let myNumberThree = 123456.789;
 myNumberOne = myNumberOne.toLocaleString("en-US");
 // India locale format (Hindi).
 myNumberTwo = myNumberTwo.toLocaleString("hi-IN");
+// German locale format (Standard German).
+myNumberThree = myNumberThree.toLocaleString("de-DE");
 
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
