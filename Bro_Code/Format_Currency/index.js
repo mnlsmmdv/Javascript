@@ -34,3 +34,5 @@ console.log(myNumberThree);
 
 // Displaying US currency locale format (US Dollar).
 console.log(myCurrencyOne);
+// Displaying India currency locale format (Indian Rupee).
+console.log(myCurrencyTwo);
