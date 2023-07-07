@@ -11,6 +11,7 @@ let myNumberOne = 123456.789;
 let myNumberTwo = 123456.789;
 let myNumberThree = 123456.789;
 let myCurrencyOne = 123456.789;
+let myCurrencyTwo = 123456.789;
 
 // US locale format (US English).
 myNumberOne = myNumberOne.toLocaleString("en-US");
