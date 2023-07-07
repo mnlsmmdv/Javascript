@@ -20,4 +20,4 @@ Your total is ${total}
 `;
 
 // Displays long text variable.
-console.log(longText);
+//console.log(longText);
