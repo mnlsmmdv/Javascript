@@ -7,7 +7,7 @@
 // 'options' = Object with formatting options
 
 // Variables to store locale numbers.
-let myNumberOne = 123567.789;
+let myNumberOne = 123456.789;
 let myNumberTwo = 123456.789;
 
 // US locale format.
