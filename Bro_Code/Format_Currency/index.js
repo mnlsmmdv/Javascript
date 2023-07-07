@@ -6,7 +6,7 @@
 // 'locale' = Specify that language (undefined = default set in browser)
 // 'options' = Object with formatting options
 
-// Variable to store locale number.
+// Variable to store locale numbers.
 let myNumberOne = 123567.789;
 
 // US locale format.
