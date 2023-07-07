@@ -20,7 +20,7 @@ myNumberTwo = myNumberTwo.toLocaleString("hi-IN");
 // German locale format (Standard German).
 myNumberThree = myNumberThree.toLocaleString("de-DE");
 
-// US currency locale format (US English).
+// US currency locale format (US Dollar).
 myCurrencyOne = myCurrencyOne.toLocaleString("en-US", {style: "currency", currency: "USD"});
 // India currency locale format (Indian Rupee).
 myCurrencyTwo = myCurrencyTwo.toLocaleString("hi-IN", {style: "currency", currency: "INR"});
