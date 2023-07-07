@@ -17,3 +17,5 @@ myNumberTwo = myNumberTwo.toLocaleString("hi-IN");
 
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
+// Displaying India locale format (myNumberTwo).
+console.log(myNumberTwo);
