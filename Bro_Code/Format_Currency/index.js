@@ -10,9 +10,9 @@
 let myNumberOne = 123456.789;
 let myNumberTwo = 123456.789;
 
-// US locale format.
+// US locale format (US English).
 myNumberOne = myNumberOne.toLocaleString("en-US");
-// India locale format.
+// India locale format (Hindi).
 myNumberTwo = myNumberTwo.toLocaleString("hi-IN");
 
 // Displaying US locale format (myNumberOne).
