@@ -22,3 +22,5 @@ myNumberThree = myNumberThree.toLocaleString("de-DE");
 console.log(myNumberOne);
 // Displaying India locale format (myNumberTwo).
 console.log(myNumberTwo);
+// Displaying German locale format (myNumberThree).
+console.log(myNumberThree);
