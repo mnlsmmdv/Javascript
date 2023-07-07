@@ -7,10 +7,10 @@
 // 'options' = Object with formatting options
 
 // Variable to store locale number.
-let myNumber = 123567.789;
+let myNumberOne = 123567.789;
 
 // US locale format.
-myNumber = myNumber.toLocaleString("en-US");
+myNumberOne = myNumberOne.toLocaleString("en-US");
 
-// Displaying US locale format (myNumber).
-console.log(myNumber);
+// Displaying US locale format (myNumberOne).
+console.log(myNumberOne);
