@@ -39,3 +39,5 @@ console.log(myNumberThree);
 console.log(myCurrencyOne);
 // Displaying India currency locale format (Indian Rupee).
 console.log(myCurrencyTwo);
+// Displaying German currency locale format (German Euro).
+console.log(myCurrencyThree);
