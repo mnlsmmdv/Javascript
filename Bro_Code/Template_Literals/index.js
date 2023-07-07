@@ -21,3 +21,6 @@ Your total is ${total}
 
 // Displays long text variable.
 //console.log(longText);
+
+// Displays long text variables values using myLabel
+document.getElementById("myLabel").innerHTML = longText;
