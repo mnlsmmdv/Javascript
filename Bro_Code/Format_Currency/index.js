@@ -8,6 +8,7 @@
 
 // Variables to store locale numbers.
 let myNumberOne = 123567.789;
+let myNumberTwo = 123456.789;
 
 // US locale format.
 myNumberOne = myNumberOne.toLocaleString("en-US");
