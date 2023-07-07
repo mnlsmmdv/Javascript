@@ -8,3 +8,6 @@
 
 // Variable to store locale number.
 let myNumber = 123567.789;
+
+// US locale format.
+myNumber = toLocaleString("en-US");
