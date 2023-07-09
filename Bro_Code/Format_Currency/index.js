@@ -43,15 +43,11 @@ myPercentTwo = myPercentTwo.toLocaleString(undefined, {style: "percent"});
 myPercentThree = myPercentThree.toLocaleString(undefined, {style: "percent"});
 myPercentFour = myPercentFour.toLocaleString(undefined, {style: "percent"});
 
-// Assigning Unit locale (myUnitOne).
+// Assigning Unit locale (myUnitOne - myUnitFive).
 myUnitOne = myUnitOne.toLocaleString(undefined, {style: "unit", unit: "celsius"});
-// Assigning Unit locale (myUnitTwo).
 myUnitTwo = myUnitTwo.toLocaleString(undefined, {style: "unit", unit: "fahrenheit"});
-// Assigning Unit locale (myUnitThree).
 myUnitThree = myUnitThree.toLocaleString(undefined, {style: "unit", unit: "mile"});
-// Assigning Unit locale (myUnitFour).
 myUnitFour = myUnitFour.toLocaleString(undefined, {style: "unit", unit: "kilometer"});
-// Assigning Unit locale (myUnitFive).
 myUnitFive = myUnitFive.toLocaleString(undefined, {style: "unit", unit: "kilogram"});
 
 // Displaying US locale format (myNumberOne).
