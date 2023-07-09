@@ -29,15 +29,15 @@ myCurrencyTwo = myCurrencyTwo.toLocaleString("hi-IN", {style: "currency", curren
 // German currency locale format (German Euro).
 myCurrencyThree = myCurrencyThree.toLocaleString("de-DE", {style: "currency", currency: "EUR"});
 
+// Assigning Percent locale (myPercentOne).
+myPercentOne = myPercentOne.toLocaleString(undefined, {style: "percent"});
+
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
 // Displaying India locale format (myNumberTwo).
 console.log(myNumberTwo);
 // Displaying German locale format (myNumberThree).
 console.log(myNumberThree);
-
-// Assigning Percent locale (myPercentOne).
-myPercentOne = myPercentOne.toLocaleString(undefined, {style: "percent"});
 
 // Displaying US currency locale format (US Dollar).
 console.log(myCurrencyOne);
