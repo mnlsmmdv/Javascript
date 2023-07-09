@@ -73,7 +73,7 @@ console.log(myPercentThree);
 // Displaying Percent locale (myPercentFour).
 console.log(myPercentFour);
 
-// Displaying Unit locale (myUnitOne - myUnitFive).
+// Displaying Unit locales (myUnitOne - myUnitFive).
 console.log(myUnitOne);
 console.log(myUnitTwo);
 console.log(myUnitThree);
