@@ -36,7 +36,7 @@ console.log(myNumberTwo);
 // Displaying German locale format (myNumberThree).
 console.log(myNumberThree);
 
-// Displaying Percent locale (myPercentOne).
+// Assigning Percent locale (myPercentOne).
 myPercentOne = myPercentOne.toLocaleString(undefined, {style: "percent"});
 
 // Displaying US currency locale format (US Dollar).
