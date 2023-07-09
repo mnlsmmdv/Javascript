@@ -79,3 +79,14 @@ console.log(myPercentTwo);
 console.log(myPercentThree);
 // Displaying Percent locale (myPercentFour).
 console.log(myPercentFour);
+
+// Displaying Unit locale (myUnitOne).
+console.log(myUnitOne);
+// Displaying Unit locale (myUnitTwo).
+console.log(myUnitTwo);
+// Displaying Unit locale (myUnitThree).
+console.log(myUnitThree);
+// Displaying Unit locale (myUnitFour).
+console.log(myUnitFour);
+// Displaying Unit locale (myUnitFive).
+console.log(myUnitFive);
