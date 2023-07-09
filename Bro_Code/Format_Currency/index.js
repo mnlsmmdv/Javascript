@@ -61,3 +61,5 @@ console.log(myPercentOne);
 console.log(myPercentTwo);
 // Displaying Percent locale (myPercentThree).
 console.log(myPercentThree);
+// Displaying Percent locale (myPercentFour).
+console.log(myPercentFour);
