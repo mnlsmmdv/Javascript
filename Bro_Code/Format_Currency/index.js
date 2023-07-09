@@ -15,6 +15,7 @@ let myCurrencyTwo = 123456.789;
 let myCurrencyThree = 123456.789;
 let myPercentOne = 123456.789;
 let myPercentTwo = 100;
+let myPercentThree = .5;
 
 // US locale format (US English).
 myNumberOne = myNumberOne.toLocaleString("en-US");
