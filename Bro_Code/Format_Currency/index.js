@@ -64,13 +64,10 @@ console.log(myCurrencyTwo);
 // Displaying German currency locale format (German Euro).
 console.log(myCurrencyThree);
 
-// Displaying Percent locale (myPercentOne).
+// Displaying Percent locales (myPercentOne - myPercentFour).
 console.log(myPercentOne);
-// Displaying Percent locale (myPercentTwo).
 console.log(myPercentTwo);
-// Displaying Percent locale (myPercentThree).
 console.log(myPercentThree);
-// Displaying Percent locale (myPercentFour).
 console.log(myPercentFour);
 
 // Displaying Unit locales (myUnitOne - myUnitFive).
