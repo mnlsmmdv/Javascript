@@ -35,6 +35,8 @@ myCurrencyThree = myCurrencyThree.toLocaleString("de-DE", {style: "currency", cu
 myPercentOne = myPercentOne.toLocaleString(undefined, {style: "percent"});
 // Assigning Percent locale (myPercentTwo).
 myPercentTwo = myPercentTwo.toLocaleString(undefined, {style: "percent"});
+// Assigning Percent locale (myPercentThree).
+myPercentThree = myPercentThree.toLocaleString(undefined, {style: "percent"});
 
 // Displaying US locale format (myNumberOne).
 console.log(myNumberOne);
