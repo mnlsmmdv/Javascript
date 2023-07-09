@@ -37,13 +37,10 @@ myCurrencyTwo = myCurrencyTwo.toLocaleString("hi-IN", {style: "currency", curren
 // German currency locale format (German Euro).
 myCurrencyThree = myCurrencyThree.toLocaleString("de-DE", {style: "currency", currency: "EUR"});
 
-// Assigning Percent locale (myPercentOne).
+// Assigning Percent locales (myPercentOne - myPercentFour).
 myPercentOne = myPercentOne.toLocaleString(undefined, {style: "percent"});
-// Assigning Percent locale (myPercentTwo).
 myPercentTwo = myPercentTwo.toLocaleString(undefined, {style: "percent"});
-// Assigning Percent locale (myPercentThree).
 myPercentThree = myPercentThree.toLocaleString(undefined, {style: "percent"});
-// Assigning Percent locale (myPercentFour).
 myPercentFour = myPercentFour.toLocaleString(undefined, {style: "percent"});
 
 // Assigning Unit locale (myUnitOne).
